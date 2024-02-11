@@ -1,12 +1,22 @@
 body {
     margin: 0;
-    overflow: scroll;
+    overflow: hidden;
     background-color: white;
     color:black;
-  }
-  
+}
+
+.navbar{
+  padding: 0.1rem 0;
+}
+
+.startCont{
+  margin: 5vh 0;
+  border: 0;
+}
+
 footer{
   position: absolute;
   top: 96%;
+  left: 0;
   width: 100%;
 }
